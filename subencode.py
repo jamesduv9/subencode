@@ -101,7 +101,7 @@ def getShellCode(file):
 
 def printUsage():
 	print " Pass the script two files, good characters list and shellcode "
-	print " USAGE: python crazyEncoderWorking.py [GoodChars] [shellcode] "
+	print " USAGE: python subencode.py [GoodChars] [shellcode] "
 	sys.exit()
 
 def main():
